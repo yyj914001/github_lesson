@@ -75,3 +75,6 @@ printf("Hello, World")
 
 
 # 2주차 시작
+diff 배우기
+
+# 3주차 시작
